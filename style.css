@@ -1,0 +1,426 @@
+
+.head{
+    margin-top: 9px;  
+}
+.head i{
+    color:#FFB800; 
+    padding: 0px 4px;
+}
+.logo {
+    text-align: center;
+}
+
+
+.head1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 9px;
+}
+.fm{
+    color:#FFB800; 
+    padding: 0px 6px;
+}
+.login{
+    color:#FFB800; 
+ 
+}
+.login i{
+    padding: 0px 6px;
+}
+/* /////////main//////// */
+.main{
+  background-color: #FFB800;
+  width:100%;
+
+}
+.sec1 {
+    margin-top: 50px;
+}
+.sec1 >p, h1{
+    color: white;
+}
+.minisec{
+    width: 100%;
+ 
+    background-color: white;
+    border-radius: 10px;
+}
+
+.sec2{
+    display: flex;
+     gap: 10px;
+}
+.sec3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.fn{
+    padding: 5px 4px;
+    width: 370px;
+}
+.fn i{
+    color: red;
+    padding-right: 6px;
+}
+.fma{
+    border: none;
+    padding:7px 14px ;
+    color: white;
+    background-color:#F65900;
+    border-radius: 4px;
+}
+.Deliver{
+    color:#f65a00d5;
+}
+.Deliver i {
+    padding-right: 8px;
+    padding-left: 8px;
+}
+.pickup{
+    color: black;
+}
+.pickup i{
+    padding-right: 8px;
+    padding-left: 14px;
+}
+.hero img{
+    width: 380px;
+    margin-top: 70px;
+   
+}
+/* ////sec3///// */
+.sec4{
+    text-align: center;
+}
+.sec4 img{
+ width: 220px;
+ margin-top: 30px;
+}
+.sec4 h5{
+    color: #F65900;
+}
+/* //////sec4/////// */
+
+.heading >h1{
+    color: #F65900; 
+    text-align: center;
+    margin: 50px 0px;
+}
+.sec5{
+    text-align: center;
+}
+.sec5 img{
+    margin-bottom: 25px;
+}
+.sec5 h4{
+    color: #F65900; 
+}
+/* ////////SEC5//////// */
+
+.popular>h1{
+    color: black; 
+    text-align: center;
+    margin: 50px 0px;
+}
+.sec6{
+    text-align: center;
+}
+.sec6 img{
+    border-radius: 15px;
+    width: 260px;
+    margin-bottom: 10px;
+   
+}
+.sec6 >h5{
+    color:#FFB800; 
+}
+.sec6 >h5>i{
+    margin-right: 7px;
+}
+.sec6 >p{
+    width: 200px;
+    border-radius: 2px solid;
+    padding: 10px 20px ;
+    background-color:#F65900; 
+    text-align: center;
+    border-radius: 7px;
+    color: white;
+    margin: 5px auto;
+}
+/* 
+/////////sec6///////// */
+.sec7{
+    text-align: center;
+}
+.sec7 >img{
+    margin-bottom: 15px;
+    width: 260px;
+}
+.sec7>p{
+    border: none;
+    padding: 8px 4px;
+    background-color: aqua;
+    color: white;
+    width: 90px;
+    border-radius: 9px;
+    text-align: center;
+    margin: 15px auto;
+}
+
+.display {
+  display: flex;
+  gap: 14px;
+  text-align: center;
+  margin: 5px auto;
+}
+
+.minidis1 span{
+    color:#FFB800; 
+}
+.sec7 .open{
+    border: none;
+    padding: 8px 4px;
+    background-color: rgba(255, 0, 0, 0.842);
+    color: white;
+    width: 150px;
+    border-radius: 9px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+/* /////sec7////////// */
+
+.populur>h6{
+    border: none;
+    padding: 8px 4px;
+    background-color:#FFB800;  ;
+    color: white;
+    width: 90px;
+    border-radius: 9px;
+    text-align: center;
+    margin: 25px auto;
+    
+}
+/* /////////////sec8//////// */
+.searchfood{
+    display: flex;
+    justify-content: space-between;
+}
+.food1>h1{
+    color: black;
+}
+.food2>h6{
+    display: inline-block;
+}
+.food2 span {
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: #FFB800;
+    text-align: center;
+    padding: 5px 10px;
+    color: white;
+    cursor: pointer;
+}
+.food2>h6{
+    color: #FFB800;
+  
+}
+/* ///////sec9//////// */
+.foods{
+    text-align: center;
+    margin-top: 30px;
+}
+.foods img{
+    width: 150px;
+}
+/* /////sec10////// */
+/* .dailylocation{
+    /*   */
+ 
+
+#portion{
+    background-color: rgba(245, 222, 179, 0.678);
+    text-align: center;
+    border-radius: 2ps solid;
+    border-radius: 20px;
+    margin-top: 90px;
+}
+.sec9{
+    display: flex;
+    color: black;
+    text-align: center;
+}
+.discount img{
+    padding: 40px 0px;
+}
+.message >h3{
+    color: black;
+    padding-top: 80px;
+}
+.app{
+    width: 100%;
+}
+.app img{
+    width: 100%;
+}
+
+/* ///////SCE10///// */
+.sec10{
+    background-color:#FFFFFF;
+    margin-top: 30px;
+    text-align: center;
+
+}
+.sec10 >h1{
+    color: black;
+}
+.sec10 >h1 span{
+    color: #FFB800;
+}
+.sec10 p{
+    background-color: #FFB800;
+    padding :9px 10px;
+    color: white;
+    width: 280px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 5px auto;
+    
+}
+.sec10 >h6{
+    margin-bottom: 55px;
+}
+
+.right{
+    width: 100%;
+}
+.right img{
+    width: 100%;
+    border-radius: 14px;
+    margin-top: 30px;
+}
+.background{
+    background-image: url("img/cta-two-bg.png");
+    margin-top: 50px;
+   height: 260px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 17px;
+}
+.background h1,p{
+    text-align: center;
+   
+}
+.background>h1{
+    padding-top: 30px;
+}
+.background>p{
+    background-color:#F17228;
+    padding :9px 10px;
+    color: white;
+    width: 200px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 50px auto;
+   
+}
+#foots{
+    background: #212121;
+    color: #F17228;
+    text-align: center;
+
+}
+#foots ul{
+    margin-top: 80px;
+}
+#lis h3{
+    margin-top: 20px;
+}
+#lis ul{
+    margin-top: 35px;
+   
+    
+}
+#foots ul li{
+    list-style: none;
+
+}
+#footer{
+    background: #212121;
+    color: white;
+    padding-top: 60px;
+    text-align: center;
+    
+}
+#footer >h4{
+    margin-bottom: 15px;
+}
+#footer ul{
+    margin-top: 20px;
+}
+#footer ul li{
+    list-style: none;
+    
+}
+.box p{
+    border: 2px solid;
+    background-color: #212121;
+    padding: 10px 8px ;
+    color: white;
+    border-radius: 15px;
+    width: 200px;
+    margin: 5px auto;
+    border: 2px solid  white;
+    cursor: pointer;
+}
+ .box .btn{
+    background-color: #F17228;
+    border: none;
+    margin-top: 10px;
+
+}
+.follow i{
+   color: #FFB800;
+    margin-right: 8px;
+    font-size: 20px;
+}
+#auth{
+    background-color: #212121;
+    padding-top: 30px;
+}
+.author{
+    text-align: center;
+    cursor: pointer;
+    color: #FFB800;
+}
+.author:hover{
+    color: #F17228;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

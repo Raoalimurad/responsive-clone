@@ -1,2 +1,0 @@
-"# responsive-clone" 
-"# responsive-clone" 
