@@ -1,2 +1,2 @@
 # responsive-clone
-https://raoalimuradfigma.netlify.app/
+https://raoalimuradresponsivefigma.netlify.app/
